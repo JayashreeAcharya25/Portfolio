@@ -200,7 +200,7 @@ export default class Home extends Component {
                   </TabList>
 
                   <TabPanel>
-                    <div className="section" onClick={this.openPopupbox}>
+                    <div className="section">
                       Webdevelopment 1
                     </div>
                     <div className="section">
